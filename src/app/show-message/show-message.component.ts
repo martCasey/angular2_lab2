@@ -20,5 +20,5 @@ export class ShowMessageComponent implements OnInit {
 
   ngOnInit() {
   }
-
+  
 }

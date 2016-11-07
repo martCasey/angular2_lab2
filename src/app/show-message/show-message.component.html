@@ -3,7 +3,7 @@
   <!-- the default value is set = "" -->
   <!-- the # syntax indecates a template reference variable -->
   <!-- which can be accessed directly -->
-  <input #myMessage myMessage.value=""; />
+  <input #myMessage myMessage.value="" />
 
   <!-- myMessage.value is passed as a parameter to the onClickMe method -->
   <button (click)="onClickMe(myMessage.value)">Click me!</button>
