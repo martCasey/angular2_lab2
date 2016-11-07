@@ -7,13 +7,15 @@ import { AppComponent } from './app.component';
 import { ClickMeComponent } from './click-me/click-me.component';
 import { ShowMessageComponent } from './show-message/show-message.component';
 import { LoopBackComponent } from './loop-back/loop-back.component';
+import { ConverterMKComponent } from './converter-m-k/converter-m-k.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     ClickMeComponent,
     ShowMessageComponent,
-    LoopBackComponent
+    LoopBackComponent,
+    ConverterMKComponent
   ],
   imports: [
     BrowserModule,
