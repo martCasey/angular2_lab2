@@ -7,8 +7,9 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ClickMeComponent implements OnInit {
 
+//Variable?
 //Declare and initialise a String
-clickMessage: string = "";
+clickMessage: string = "uiouou8u";
 
   constructor() { }
 

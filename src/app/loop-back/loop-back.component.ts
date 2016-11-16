@@ -5,6 +5,7 @@ import { Component, OnInit } from '@angular/core';
   templateUrl: './loop-back.component.html',
   styleUrls: ['./loop-back.component.css']
 })
+//Think java class
 export class LoopBackComponent implements OnInit {
   //Declare and initialise a String
   message: string = "";

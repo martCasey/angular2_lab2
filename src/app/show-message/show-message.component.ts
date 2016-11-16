@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ShowMessageComponent implements OnInit {
   //Declare and initialise a String
-  clickMessage: string = "";
+  clickMessage: string = "Buy nemisis prime";
 
   constructor() { }
 
